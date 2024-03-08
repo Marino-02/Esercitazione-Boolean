@@ -1,0 +1,80 @@
+  /* Generali */
+
+body {
+  background-image:URL("MaterialeEsercizioLim/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  color: White;
+  font-family: sans-serif;
+  }
+
+.riquadro {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 60px;
+  width: 70%;
+  margin: auto;
+  border-radius: 5px;
+}
+
+  /* Navigazione */
+
+header{
+  text-align: center;
+}
+
+.logo{
+  width: 120px;
+}
+
+.text{
+    color: #00DD00;
+    margin: 0px;
+}
+
+nav{
+  background-color: #00DD00;
+  padding: 5px 0px 5px ;
+}
+
+  /* Monopattini 2 */
+
+.titolare{
+  display: inline-block;
+  margin: 20px 0 0 0;
+}
+
+.posizione {
+  font-size: 10px;
+  margin: 5px 0 10px 0;
+}
+
+ /* Batteria 1 */
+
+.carica1{
+  background: orange;
+  width: 30%;
+  height: 20px;
+  border-radius: 2px;
+}
+
+/* Batteria 2 */
+
+
+.carica2{
+  background: green;
+  width: 60%;
+  height: 20px;
+  border-radius: 2px;
+}
+
+/* Batteria 3 */
+
+
+.carica3{
+  background: red;
+  width: 10%;
+  height: 20px;
+  border-radius: 2px;
+}
